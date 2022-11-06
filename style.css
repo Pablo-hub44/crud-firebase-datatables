@@ -1,0 +1,39 @@
+.jumbotron{
+    padding: 1rem 1rem;
+    margin-bottom: 0rem;
+    background-color: #e9ecef;
+    border-radius: .3rem;
+}
+table th { 
+    color: white;
+}
+body{
+    background-color:#dee2e6;
+  
+}
+ table.dataTable thead {
+    background: #007bff;
+    color:white;
+}
+
+.caja{
+  /* border: 1px solid; */
+  padding: 5px;
+  box-shadow: 8px 8px 40px 1px #7c7c81;
+  border-radius: 10px;
+}
+
+header{
+    color: #267cd1!important;
+    background: #1f78d1;
+    margin: 4px;
+}
+
+.material-icons{
+    margin-top: 3px;
+}
+
+/*para alinear los botones y cuadro de busqueda*/
+/*.btn-group, .btn-group-vertical {
+    position: absolute !important;
+}*/
